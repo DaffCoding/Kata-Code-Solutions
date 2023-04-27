@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for checking out my CodeWars solutions! I plan to create an application for Android that can help those studying as well. 
+ Thank you for checking out my CodeWars solutions! I have a few plans for Android Applications that can potentially help those in the study grind too.
 
 If you have any questions or feedback, feel free to get in touch. 
 
